@@ -1,0 +1,11 @@
+gift_id,name,price,description,status
+1,"Televison",120000.00,"Hisense or LG ",AVAILABLE
+2,"playstation 4",250000.00,"The true gaming console",AVAILABLE
+3,"Set of cup",12000.00,"In inox or in glass",AVAILABLE
+4,"Set of Plates",15000.00,"Not in wood or inox",AVAILABLE
+5,"Hearphone",14000.00,"JBL",AVAILABLE
+6,"Cooking stoves",200000.00,"The best you can give for a wife",AVAILABLE
+7,"Refrigirator",150000.00,"Hisense",AVAILABLE
+8,"Video games",30000.00,"for the playstation",AVAILABLE
+9,"Air conditioner",300000.00,"for the house",AVAILABLE
+10,"Money",0.00,"",AVAILABLE
